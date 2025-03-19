@@ -1,4 +1,4 @@
-# [ICLR2025 Under Review] Rethinking Self-Distillation: Label Averaging and Enhanced Soft Label Refinement with Partial Labels 
+# [ICLR2025] Rethinking Self-Distillation: Label Averaging and Enhanced Soft Label Refinement with Partial Labels 
 
 This repository contains code for our paper: "Rethinking Self-Distillation: Label Averaging and Enhanced Soft Label Refinement with Partial Labels".
 
